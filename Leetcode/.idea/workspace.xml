@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cba5afd-dfef-4c7b-af33-b6dbaf05e5f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgre/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgre/src/main/java/com/nursultan/postgre/domain/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgre/src/main/java/com/nursultan/postgre/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgre/src/test/java/com/nursultan/postgre/TestDataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgre/src/test/java/com/nursultan/postgre/reposotories/AuthoImplIntergrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgre/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/src/main/java/com/nursultan/quickstart/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/src/main/java/com/nursultan/sql/SqlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql/src/test/java/com/nursultan/sql/SqlApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/Converter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/src/CityCountryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/src/cities.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/src/h_city.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Converter/src/h_country.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets/src/main/java/com/example/servlets/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/spring_intro/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/spring_intro/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/spring_intro/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/spring_intro/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/spring_intro/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/spring_intro/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/spring_intro/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearn/SpringLearn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Course/resources/myApplication.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Course/src/spring_intro/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Course/src/spring_intro/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uchimSpring/src/spring_intro/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uchimSpring/src/spring_intro/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jvT8akn50ImPR9SF4DK3BrXLBk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Nursultan/IdeaProjects/sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Nursultan/IdeaProjects/Leetcode/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cba5afd-dfef-4c7b-af33-b6dbaf05e5f7" name="Changes" comment="" />
+      <created>1722266394757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722266394757</updated>
+      <workItem from="1722266395859" duration="7732000" />
+      <workItem from="1722275930378" duration="1834000" />
+      <workItem from="1722690829599" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
